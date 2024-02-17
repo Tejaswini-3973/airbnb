@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Teja Edit <code>src/App.js</code> and save to reload.
+          Teja Patil Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
